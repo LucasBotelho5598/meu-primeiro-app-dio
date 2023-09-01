@@ -3,6 +3,7 @@ Esse projeto tem o objetivo de realizar um desafio para os alunos do curso de An
 
 
 ![Portugues](https://github.com/LucasBotelho5598/meu-primeiro-app-dio/assets/69313641/cb7509ab-ae9b-4eb1-83fe-ad034455cc23)
+
 BR
 
 ![English](https://github.com/LucasBotelho5598/meu-primeiro-app-dio/assets/69313641/c2219684-2c60-4127-81c5-9fa6aa3d6c2a)
